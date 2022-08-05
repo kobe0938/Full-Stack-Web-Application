@@ -1,0 +1,9 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: 'center';
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}

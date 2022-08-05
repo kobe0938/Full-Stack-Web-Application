@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    color: rgb(27, 20, 20);
+  }
+  
+/* .commentsCount:hover {
+  background-color: transparent;
+}
+/* button:hover .commentsCount {
+  content: "Reply!";
+}
+button:hover .commentsCount:before{
+  content:"Reply!"; } */ 
+
+.photosCount {
+  /* height: 200px; */
+  width: 10%;
+}
+
+.name {
+  width: 80%;
+}
+
+.commentsCount {
+  width: 10%;
+}
